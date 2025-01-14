@@ -42,6 +42,6 @@ To get started with the Password Generator Website, follow these steps:
 ## Technologies Used
 
 - **React:** For building the user interface.
-- **Tailwind css**: For Implementing css.
+- **Tailwind css**: For Implementing css
 
 
